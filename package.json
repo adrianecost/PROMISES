@@ -1,0 +1,20 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "Exemplos de projetos usando Promises em JavaScript",
+  "main": "tarefa1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tarefa1.js",
+    "tarefa2": "node tarefa2.js",
+    "tarefa3": "node tarefa3.js",
+    "tarefa4": "node tarefa4.js",
+    "tarefa5": "node tarefa5.js",
+    "tarefa6": "node tarefa6.js"
+  },
+  "author": "adrianecost",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
